@@ -1,0 +1,9 @@
+# Query: main(
+# ContextLines: 1
+
+Um resultado - Um arquivo
+
+src • CreditInquiry.java:
+  11  
+  12:     public static void main(String)[] args {
+  13          MenuOption accountType = getRequest();
